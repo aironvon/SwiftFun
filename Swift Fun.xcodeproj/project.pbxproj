@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					930A34DD1F746F720098C4F8 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 3434B7RZPB;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -262,6 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3434B7RZPB;
 				INFOPLIST_FILE = "Swift Fun/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.aaronville.Swift-Fun";
@@ -274,6 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3434B7RZPB;
 				INFOPLIST_FILE = "Swift Fun/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.aaronville.Swift-Fun";
@@ -301,6 +304,7 @@
 				930A34F21F746F720098C4F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
